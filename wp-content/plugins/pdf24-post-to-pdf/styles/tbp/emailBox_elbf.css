@@ -1,0 +1,32 @@
+.pdf24Plugin-tbp {
+	border:1px solid silver;
+	width:600px;
+	margin:auto;
+}
+
+.pdf24Plugin-tbp-input {
+	width:200px;
+	padding:2px;
+	border:1px solid silver;
+}
+
+.pdf24Plugin-tbp-submit {
+	padding:2px 10px !important;
+}
+
+.pdf24Plugin-tbp * {
+	font-size:90%;
+}
+
+.pdf24Plugin-tbp form {
+	margin:0;
+	padding:0;
+}
+
+.pdf24Plugin-tbp span, .pdf24Plugin-tbp input, .pdf24Plugin-tbp img {
+	vertical-align:middle;
+}
+
+.pdf24Plugin-cp img {
+	height:32px;
+}
