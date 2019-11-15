@@ -41,22 +41,22 @@
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'id11539458_natcle' );
+define( 'DB_NAME', 'natcle' );
 
 
 /** MySQL database username */
 
-define( 'DB_USER', 'id11539458_admin' );
+define( 'DB_USER', 'trillante' );
 
 
 /** MySQL database password */
 
-define( 'DB_PASSWORD', 'admin' );
+define( 'DB_PASSWORD', 'pgpi2020' );
 
 
 /** MySQL hostname */
 
-define( 'DB_HOST', 'databases.000webhost.com' );
+define( 'DB_HOST', 'db4free.net' );
 
 
 /** Database Charset to use in creating database tables. */
