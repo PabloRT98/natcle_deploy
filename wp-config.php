@@ -56,7 +56,7 @@ define( 'DB_PASSWORD', 'admin' );
 
 /** MySQL hostname */
 
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'databases.000webhost.com' );
 
 
 /** Database Charset to use in creating database tables. */
