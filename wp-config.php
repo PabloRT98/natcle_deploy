@@ -41,22 +41,22 @@
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'd9h7nht9gn5964' );
+define( 'DB_NAME', 'id11539458_natcle' );
 
 
 /** MySQL database username */
 
-define( 'DB_USER', 'uncultwtsagtio' );
+define( 'DB_USER', 'id11539458_admin' );
 
 
 /** MySQL database password */
 
-define( 'DB_PASSWORD', 'b6f7180c3652387c309442a0e7bdd859a4f9e2a7e6c037e2b59b532f23d15d83' );
+define( 'DB_PASSWORD', 'admin' );
 
 
 /** MySQL hostname */
 
-define( 'DB_HOST', 'ec2-174-129-227-51.compute-1.amazonaws.com' );
+define( 'DB_HOST', 'localhost' );
 
 
 /** Database Charset to use in creating database tables. */
