@@ -41,6 +41,11 @@
 
 /** The name of the database for WordPress */
 
+define( 'WP_HOME', 'https://natcle.herokuapp.com/' );
+
+define( 'WP_SITEURL', 'https://natcle.herokuapp.com/' );
+
+
 define( 'DB_NAME', 'hgWDShF1sD' );
 
 
