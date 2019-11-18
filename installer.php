@@ -89,10 +89,10 @@ abstract class DUPX_Bootstrap_Zip_Mode
 class DUPX_Bootstrap
 {
 	//@@ Params get dynamically swapped when package is built
-	const ARCHIVE_FILENAME	 = 'natcle_local_72076088eae2095e7715_20191118103208_archive.zip';
-	const ARCHIVE_SIZE		 = '75296898';
+	const ARCHIVE_FILENAME	 = 'natcle_local_3b22bb2df164c5aa3837_20191118105238_archive.zip';
+	const ARCHIVE_SIZE		 = '75441876';
 	const INSTALLER_DIR_NAME = 'dup-installer';
-	const PACKAGE_HASH		 = '7207608-18103208';
+	const PACKAGE_HASH		 = '3b22bb2-18105238';
 	const VERSION			 = '1.3.24';
 
 	public $hasZipArchive     = false;
